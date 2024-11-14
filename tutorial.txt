@@ -1,0 +1,13 @@
+🇧🇷 para usar você precisará pegar id hash e id account para poder ter acesso a isso acesse o https://my.telegram.org/auth após fazer isso coloque seu numero e insira o codigo quee será enviado para ele esse codigo estará nas mensagens do seu telegram.
+
+após fazer isso pegue vá em api developments pode estar como development tools pegue seu id account e id hash após pegar seu id hash e id account abra o arquivo config.json e insira seu id hash e id account e depois inicie a script. ai e so ser feliz. 
+
+🇺🇸 to use it you will need to get the hash id and account id to be able to access it https://my.telegram.org/auth after doing this enter your number and enter the code that will be sent to it this code will be in the messages your telegram. after that get it go to api developments it can be how to make development tools get your account id and hash id after getting your hash id and account id open the config.json file and enter your hash id and account id and then start a script. oh and then be happy.
+
+desenvolvido por: @inovertt
+developed by: @inovertt 
+
+N E X
+
+
+se for postar deixe creditos. 🥳
